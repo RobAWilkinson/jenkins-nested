@@ -1,0 +1,3 @@
+[submodule "double-nested"]
+	path = double-nested
+	url = https://github.com/RobAWilkinson/jenkins-double-nested.git
